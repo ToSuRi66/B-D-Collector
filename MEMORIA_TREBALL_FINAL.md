@@ -17,7 +17,7 @@ Per a la versió mòbil (**Smartphone**), l'enfocament canvia radicalment sota l
 
 > **Accés al projecte en línia**:  
 > L'aplicació publicada i desplegada es pot consultar a:  
-> `https://<el-teu-usuari>.github.io/<nom-del-repositori>/`  
+> `https://tosuri66.github.io/B-D-Collector/index.html`  
 > *(Repositori GitHub amb desplegament continuat via GitHub Pages)*
 
 ---
